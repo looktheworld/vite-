@@ -15,7 +15,7 @@ vite官网搭建工程指南: https://vitejs.dev/guide/#scaffolding-your-first-v
 - vuex, vue-router,
 
 | 日期 | 销售额 |
-| :--: |  :--: | |
+| :--: |  :--: |
 | 2022-01-01 | 1500 |
 | 2022-01-02 | 1800 |
 | 2022-01-03 | 1600 |
